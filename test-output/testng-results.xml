@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1720" started-at="2019-03-25T08:29:20Z" finished-at="2019-03-25T08:29:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1720" started-at="2019-03-25T08:29:20Z" finished-at="2019-03-25T08:29:21Z">
+      <class name="com.collibra.qa.tests.Deserialize">
+        <test-method status="PASS" signature="testCommentDeserialization()[pri:0, instance:com.collibra.qa.tests.Deserialize@7823a2f9]" name="testCommentDeserialization" duration-ms="1699" started-at="2019-03-25T08:29:20Z" finished-at="2019-03-25T08:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommentDeserialization -->
+      </class> <!-- com.collibra.qa.tests.Deserialize -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
